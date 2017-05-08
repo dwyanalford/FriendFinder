@@ -1,0 +1,30 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "a compatibilty dating app which takes in results from user surveys, then compares results with those from other users, finally displaying the most compatible overall match for the user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwyanalford/FriendFinder.git"
+  },
+  "keywords": [
+    "dating",
+    "compatibility",
+    "friends"
+  ],
+  "author": "Dwyan Alford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwyanalford/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/dwyanalford/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
