@@ -1,0 +1,162 @@
+[
+{
+"name": "Steve Jobs",
+"photo": "images/steve-jobs.jpg",
+"scores": [
+"5",
+"1",
+"4",
+"4",
+"5",
+"1",
+"2",
+"5",
+"4",
+"1"
+]
+},
+{
+"name": "Donald Trump",
+"photo": "images/donald-trump.jpg",
+"scores": [
+"4",
+"2",
+"5",
+"1",
+"3",
+"2",
+"2",
+"1",
+"3",
+"2"
+]
+},
+{
+"name": "Princess Diana",
+"photo": "images/princess-diana.jpg",
+"scores": [
+"5",
+"2",
+"2",
+"2",
+"4",
+"1",
+"3",
+"2",
+"5",
+"5"
+]
+},
+{
+"name": "Morgan Freeman",
+"photo": "images/morgan-freeman.jpg",
+"scores": [
+"3",
+"3",
+"4",
+"2",
+"2",
+"1",
+"3",
+"2",
+"2",
+"3"
+]
+},
+{
+"name": "Tom Cruise",
+"photo": "images/tomcruise.jpg",
+"scores": [
+"4",
+"3",
+"4",
+"1",
+"5",
+"2",
+"5",
+"3",
+"1",
+"4"
+]
+},
+{
+"name": "Angelina Jolie",
+"photo": "images/angelina-jolie.jpg",
+"scores": [
+"4",
+"4",
+"2",
+"3",
+"2",
+"2",
+"3",
+"2",
+"4",
+"5"
+]
+},
+{
+"name": "Michele Obama",
+"photo": "images/michelle-obama.jpgm",
+"scores": [
+"5",
+"3",
+"1",
+"1",
+"2",
+"1",
+"5",
+"1",
+"5",
+"4"
+]
+},
+{
+"name": "Magaret Thatcher",
+"photo": "images/margaret-thatcher.jpg",
+"scores": [
+"2",
+"3",
+"4",
+"3",
+"2",
+"2",
+"2",
+"4",
+"2",
+"3"
+]
+},
+{
+"name": "Pope Francis",
+"photo": "images/pope-francis.jpg",
+"scores": [
+"2",
+"2",
+"1",
+"1",
+"2",
+"3",
+"4",
+"4",
+"3",
+"4"
+]
+},
+{
+"name": "Dwyan Alford",
+"photo": "www.dwyan.com/dwyan4.jpg",
+"scores": [
+"5",
+"3",
+"5",
+"1",
+"3",
+"3",
+"5",
+"3",
+"1",
+"3"
+]
+}
+]
